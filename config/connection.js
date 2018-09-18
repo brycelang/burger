@@ -1,9 +1,9 @@
 var mysql = require("mysql");
 
 connection = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "",
+  host: " gardenhub.a2hosted.com",
+  user: "garde_root",
+  password: "Bngv#899",
   database: "burgers_db"
 });
 
